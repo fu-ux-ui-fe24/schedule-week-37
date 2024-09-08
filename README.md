@@ -25,7 +25,7 @@ Fokuset kommer att ligga på att komma på idéer på hur problemet ska lösas, 
 * [Axis of Awesome - 4 chord song](https://www.youtube.com/watch?v=5pidokakU4I)
 
 ### Länkar
-* [Junior Dev Sverige - Dicsord Community](https://discord.gg/5Ryzh2h3)
+* [Junior Dev Sverige - Discord Community](https://discord.gg/5Ryzh2h3)
 
 ### Övningar
 * [Gruppexamination](https://github.com/fu-ux-ui-fe24/exam-team-design-thinking-process/tree/main)
