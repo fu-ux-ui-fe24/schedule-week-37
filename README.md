@@ -19,6 +19,7 @@ Fokuset kommer att ligga på att komma på idéer på hur problemet ska lösas, 
 * [Prototype]()
 
 ### Filmer
+* [Inspelad föreläsning - Ideate](https://vimeo.com/748023340/babce419ce)
 * [Karl Gilis - Why you fail at digital marketing](https://www.youtube.com/watch?v=5smmkVq3osE)
 * [Kirby Ferguson - Creativity is a Remix](https://www.youtube.com/watch?v=zd-dqUuvLk4)
 * [Simon Sinek - How great leaders inspire action](https://www.youtube.com/watch?v=qp0HIF3SfI4)
