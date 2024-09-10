@@ -24,12 +24,16 @@ Fokuset kommer att ligga på att komma på idéer på hur problemet ska lösas, 
 * [Kirby Ferguson - Creativity is a Remix](https://www.youtube.com/watch?v=zd-dqUuvLk4)
 * [Simon Sinek - How great leaders inspire action](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 * [Axis of Awesome - 4 chord song](https://www.youtube.com/watch?v=5pidokakU4I)
+* [Create a Responsive Grid System for Web & UI Design | Figma Tutorial](https://www.youtube.com/watch?v=gHdcAH1nhiU)
 
 ### Länkar
 * [Junior Dev Sverige - Discord Community](https://discord.gg/5Ryzh2h3)
+* [Figma - Youtubekanal](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
+* [DesignWithArash - Youtubekanal](https://www.youtube.com/@DesignWithArash)
 
 ### Övningar
 * [Gruppexamination](https://github.com/fu-ux-ui-fe24/exam-team-design-thinking-process/tree/main)
+* [Figma Prototype Bootcamp](https://github.com/fu-ux-ui-fe24/exercise-prototype-bootcamp/tree/main)
 
 
 
