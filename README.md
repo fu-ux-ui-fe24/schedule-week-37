@@ -16,7 +16,8 @@ Fokuset kommer att ligga på att komma på idéer på hur problemet ska lösas, 
 
 ### Presentationer
 * [Ideate](https://docs.google.com/presentation/d/1_ZFIl1Yvf_ftOBWA5azH04K2OmVC-XPm/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [Prototype]()
+* [Prototype](https://docs.google.com/presentation/d/1mjKiS72Q_tjR0VpyXmNxDq5IE3KFBEmmDXvp5LOSBYk/edit?usp=sharing)
+* [Figma](https://docs.google.com/presentation/d/1-0BZpeqQHQ9NjwPGf08tGORW6tSzeA4rEWX7PqTy_1k/edit?usp=sharing)
 
 ### Filmer
 * [Inspelad föreläsning - Ideate](https://vimeo.com/748023340/babce419ce)
