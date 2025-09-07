@@ -21,6 +21,7 @@ Fokuset kommer att ligga på att komma på idéer på hur problemet ska lösas, 
 
 ### Filmer
 
+* [Förinspelad föreläsning - Ideate](https://vimeo.com/748023340/babce419ce)
 
 ### Länkar
 
