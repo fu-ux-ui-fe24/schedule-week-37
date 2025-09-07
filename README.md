@@ -1,4 +1,4 @@
-# Schema, vecka 36
+# Schema, vecka 37
 ###### UX / UI Grunder, vecka 2 av 6
 
 ## Introduktion
@@ -16,8 +16,8 @@ Fokuset kommer att ligga på att komma på idéer på hur problemet ska lösas, 
 
 ### Presentationer
 * [Ideate](https://docs.google.com/presentation/d/1_ZFIl1Yvf_ftOBWA5azH04K2OmVC-XPm/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [Prototype](https://docs.google.com/presentation/d/1mjKiS72Q_tjR0VpyXmNxDq5IE3KFBEmmDXvp5LOSBYk/edit?usp=sharing)
-* [Figma](https://docs.google.com/presentation/d/1-0BZpeqQHQ9NjwPGf08tGORW6tSzeA4rEWX7PqTy_1k/edit?usp=sharing)
+* [Prototype](https://docs.google.com/presentation/d/1sqBIkBZhBvCLMbAK0j26JGSKqJoN5zfY/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Figma](https://docs.google.com/presentation/d/1rOY0YAQi8X1Objc9c7VZMbNHGOv6s1ZY/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Filmer
 
