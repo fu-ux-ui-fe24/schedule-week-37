@@ -21,6 +21,7 @@ Fokuset kommer att ligga på att komma på idéer på hur problemet ska lösas, 
 
 ### Filmer
 
+* [Liveinspelad föreläsning - Ideate](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EXWxKtu2YK5Oh1P0KSMACXUB5XFcgvH2x5Jy8PHkJ00gdg?e=5M3RGx)
 * [Förinspelad föreläsning - Ideate](https://vimeo.com/748023340/babce419ce)
 
 ### Länkar
